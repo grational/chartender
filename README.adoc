@@ -10,8 +10,9 @@ v0.1.0
 A simple ratpack webservice rest wrapper around the https://knowm.org/open-source/xchart/[xchart] library to generate different kinds of charts on the fly.
 
 Currently the following charts are supported:
-.Line charts
-.Bar charts
-.Donut charts
+
+- Line charts
+- Bar charts
+- Donut charts
 
 See more details on its usage on the postman documentation https://documenter.getpostman.com/view/222746/RWaDVWKA[HERE].
